@@ -1,5 +1,6 @@
-﻿# training_DS
-yandex practicum and everything
+﻿# risk_of_heart_failure.ipynb## Соревнование на кагле среди студентов яндекс практикум. 
 
-Задача на прогнозирование сердечной неодстаточности. Внутреннее соревнование на кагл.
+
+
+## Используя базу с информацией о пациентах нужно предсказать проблемы с сердцем. Ссылка https://www.kaggle.com/competitions/yap8-heart-diseases-predictions
 
